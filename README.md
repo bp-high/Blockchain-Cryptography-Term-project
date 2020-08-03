@@ -1,4 +1,4 @@
-# Blockchain-Cryptography-Term-project-
+# Blockchain-Cryptography-Term-project
 Java based Block chain to prevent counterfeit drugs
 
 # Bits- 463 Cryptography Term Project 
