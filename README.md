@@ -2,6 +2,14 @@
 Java based Block chain to prevent counterfeit drugs
 
 # Bits- 463 Cryptography Term Project 
+## Team Members
+Venkateshwar Dhari Singh 2018A7PS0246H [GitHub](https://github.com/venkatdsingh7)
+
+Dhruv Maheshwari 2018A7PS0170H [GitHub](https://github.com/dhruv-mahesh)
+
+Rhytham Choudhary 2018A7PS0179H [GitHub](https://github.com/Rhytham211)
+
+Bhavish Pahwa 2018A7PS0168H [GitHub](https://github.com/bp-high)
 
 
 
